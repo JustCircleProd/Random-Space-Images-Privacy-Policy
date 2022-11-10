@@ -4,8 +4,8 @@ Random Space Images is an Android app developed by JustCircle Prod. The app is a
 
 Usage data is collected automatically when using the App.
 
-When using Our Application to provide features of Our Application, We may collect:
-– Actions in the Application (favourite images, App theme).
+When using Our Application to provide features of Our Application, We may collect:  
+- Actions in the Application (favourite images, App theme).
 
 This information is stored on Your device and can simply be erased by clearing the App's data or deleting it, or by using the account deletion feature in the App's settings.
 
