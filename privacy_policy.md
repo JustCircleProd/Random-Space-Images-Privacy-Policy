@@ -6,7 +6,7 @@ When using Our Application to provide features of Our Application, We may collec
 - Actions in the Application (favourite images, App theme).
 - Usage data.
 
-Actions in the Application (favourite images, App theme) are stored on Your device and can simply be erased by clearing the App's data or deleting it, or by using the account deletion feature in the App's settings.
+Actions in the Application (favourite images, App theme) are stored on Your device and can simply be erased by clearing the App's data or deleting it.
 
 Usage data is collected automatically when using the App. Usage data is needed to analyse data, identify usage trends and improve Our App and Your experience.
 
